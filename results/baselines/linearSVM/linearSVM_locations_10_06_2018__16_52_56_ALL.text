@@ -1,0 +1,11 @@
+linearSVM, locations:
+
+C: 128
+
+Accuracy: 0.593688253932857
+Precision: 0.7419467063650879
+Recall: 0.13625480464727185
+F1: 0.23022912442123475
+ratio of positive/negative predictions: 0.4459402578801738
+
+tweet_by_ID_02_6_2018__05_40_21__no_hashtags_ALL.text

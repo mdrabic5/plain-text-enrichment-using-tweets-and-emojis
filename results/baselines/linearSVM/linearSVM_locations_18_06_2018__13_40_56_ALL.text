@@ -1,0 +1,9 @@
+linearSVM, locations:
+
+C: 32
+
+Accuracy: 0.5936804401722894
+Precision: 0.7419172790666412
+Recall: 0.1362488768836736
+F1: 0.23021844010072906
+ratio of positive/negative predictions: 0.44594263595817674

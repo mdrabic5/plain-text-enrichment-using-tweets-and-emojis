@@ -1,0 +1,10 @@
+linearSVM, emojis:
+
+C: 64
+
+Accuracy: 0.9560163893657065
+Precision: 0.02093200129343995
+Recall: 0.014627722290856144
+F1: 0.011534161548320598
+
+tweet_by_ID_02_6_2018__05_40_21__no_hashtags_ALL.text

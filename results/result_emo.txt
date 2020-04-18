@@ -1,0 +1,93 @@
+yesss that's right my girl made court ! love her @ southeastern university
+before & after . natural to a red violet brown
+thanks to @user for another reason to look forward to friday and to doodle at my desk
+first time doing hot yoga ! @ yoga
+last night birthday party @ 809 bar & grill
+from @user " @user / for our set in @user
+" boy if you dont .. ! " @ john dewey elementary school
+" i could snowboard down this " was my first thought when reaching the peak - @user
+thx for being the best & just being you @user @ chickasha festival of light
+when you got a friend who is literally the cutest elf you've ever seen ..
+can't even believe to express how much i love these babes i can basically call family they've
+being cool , even when he's not trying @ north
+feet first ! it's how i came into this world @ lafayette square
+@user @ riverside , austin
+oh stevie nicks
+flamefax - lord of all fire horses ! i finally caught enough in and
+happy 50th to the moms , you're over the hill & the years of being 25 are officially over . @
+another beautiful winter day in wine country @ paso robles , california
+@user carries all the babies @ summa akron city hospital
+the lovely woman in my family @ benson , north carolina
+(20, 31)
+(20, 31)
+[[0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [1 1 0 0 0 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 1 0 0 0 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 1 1 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 1 1 0 0 1 1 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 1 0 1 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]
+[[0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]
+ [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0]]
+Accuracy: 0.8306451612903226
+Precision: 0.6
+Recall: 0.11009174311926606
+F1: 0.186046511627907
+ratio of positive/negative predictions 0.17580645161290323
+(20, 31)
+(20, 31)
+[[ 0  0  0  0  4 14 14  4  4 14 14 14 14 14 14  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0 17  2  0 15 15 14 14 14 14 14  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0 10  0 10 10  0 10 10  0 10 10  0 15 15 15 10 10 10 10 10 10 10 10
+   0  0  0  0  0  0  0]
+ [ 5  8  8  5  5  5  5  5  5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 8  8  8  8 11 11 19 19 19 19 19  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 5 19  8  5 19  5 19 11 11 11 11  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 9 16 16 16 16 16 16  3  3  3  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 1  0  8  5  5  5  5  5 15 11 11 11 11 11 19 19 19 19 19 19 19  0  0  0
+   0  0  0  0  0  0  0]
+ [14  0  4  1  4 14  1  1 10 10 10 10  8 19 19 19  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 8  0  0  0  8  0  0  3  8  2  3  3  3  2  2  2 18  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]]
+[[ 0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  2  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  5  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  6  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0 19  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  3  0  0  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  0 11  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  1  0  0  0  0  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]
+ [ 0  0  0  0  0  0  0  0  0  0  0  0  0  0  4  0  0  0  0  0  0  0  0  0
+   0  0  0  0  0  0  0]]
+Accuracy: 0.9385867895545317
+Precision: 0.1805079365079365
+Recall: 0.02894711322130677
+F1: 0.039677784694124564
